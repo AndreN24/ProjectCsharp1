@@ -1,0 +1,685 @@
+20
+400
+20
+0
+8
+1
+Basic_Sword Damage: 3
+4
+6
+3802
+Knight
+Started as a Knight
+You encounter a unhappy Troll
+You hit a Unhappy Troll for 5 damage
+A Unhappy Troll hit you for 4 damage
+You hit a Unhappy Troll for 5 damage
+A Unhappy Troll hit you for 4 damage
+You hit a Unhappy Troll for 5 damage
+A Unhappy Troll hit you for 4 damage
+You slay a Unhappy Troll and earn 7 experience
+ + 41gold
+You encounter a odd Troll
+You hit a Odd Troll for 5 damage
+A Odd Troll hit you for 4 damage
+You hit a Odd Troll for 5 damage
+A Odd Troll hit you for 4 damage
+You hit a Odd Troll for 5 damage
+A Odd Troll hit you for 4 damage
+You slay a Odd Troll and earn 8 experience
+ + 45gold
+You encounter a demonic Snake
+You hit a Demonic Snake for 5 damage
+A Demonic Snake hit you for 2 damage
+You hit a Demonic Snake for 5 damage
+A Demonic Snake hit you for 2 damage
+You hit a Demonic Snake for 5 damage
+A Demonic Snake hit you for 2 damage
+You hit a Demonic Snake for 5 damage
+A Demonic Snake hit you for 2 damage
+You slay a Demonic Snake and earn 6 experience
+ + 21gold
+You encounter a legendary Wolf
+You hit a Legendary Wolf for 5 damage
+A Legendary Wolf hit you for 2 damage
+You hit a Legendary Wolf for 5 damage
+A Legendary Wolf hit you for 2 damage
+You hit a Legendary Wolf for 5 damage
+A Legendary Wolf hit you for 2 damage
+You hit a Legendary Wolf for 5 damage
+A Legendary Wolf hit you for 2 damage
+You hit a Legendary Wolf for 5 damage
+A Legendary Wolf hit you for 2 damage
+You slay a Legendary Wolf and earn 8 experience
+ + 41gold
+You encounter a legendary Snake
+You hit a Legendary Snake for 5 damage
+A Legendary Snake hit you for 2 damage
+You hit a Legendary Snake for 5 damage
+A Legendary Snake hit you for 2 damage
+You hit a Legendary Snake for 5 damage
+A Legendary Snake hit you for 2 damage
+You hit a Legendary Snake for 5 damage
+A Legendary Snake hit you for 2 damage
+You slay a Legendary Snake and earn 8 experience
+ + 41gold
+You encounter a strange Snake
+You hit a Strange Snake for 5 damage
+A Strange Snake hit you for 2 damage
+You hit a Strange Snake for 5 damage
+A Strange Snake hit you for 2 damage
+You hit a Strange Snake for 5 damage
+A Strange Snake hit you for 2 damage
+You hit a Strange Snake for 5 damage
+A Strange Snake hit you for 2 damage
+You slay a Strange Snake and earn 8 experience
+ + 23gold
+You encounter a huge Snake
+You hit a Huge Snake for 5 damage
+A Huge Snake hit you for 2 damage
+You hit a Huge Snake for 5 damage
+A Huge Snake hit you for 2 damage
+You hit a Huge Snake for 5 damage
+A Huge Snake hit you for 2 damage
+You hit a Huge Snake for 5 damage
+A Huge Snake hit you for 2 damage
+You slay a Huge Snake and earn 6 experience
+ + 25gold
+You encounter a magical Snake
+You hit a Magical Snake for 5 damage
+A Magical Snake hit you for 2 damage
+You hit a Magical Snake for 5 damage
+A Magical Snake hit you for 2 damage
+You hit a Magical Snake for 5 damage
+A Magical Snake hit you for 2 damage
+You hit a Magical Snake for 5 damage
+A Magical Snake hit you for 2 damage
+You slay a Magical Snake and earn 6 experience
+ + 47gold
+You encounter a beautiful Troll
+You hit a Beautiful Troll for 5 damage
+A Beautiful Troll hit you for 4 damage
+You used the special attack Retaliate
+You hit a Beautiful Troll for 5 damage
+A Beautiful Troll hit you for 0 damage.
+ You blocked (100) damage
+A Beautiful Troll hit you for 4 damage
+A Beautiful Troll hit you for 4 damage
+A Beautiful Troll hit you for 4 damage
+A Beautiful Troll hit you for 4 damage
+A Beautiful Troll hit you for 4 damage
+You hit a Beautiful Troll for 5 damage
+A Beautiful Troll hit you for 4 damage
+You slay a Beautiful Troll and earn 9 experience
+ + 31gold
+You encounter a mysterious Snake
+You hit a Mysterious Snake for 5 damage
+A Mysterious Snake hit you for 2 damage
+You hit a Mysterious Snake for 5 damage
+A Mysterious Snake hit you for 2 damage
+You hit a Mysterious Snake for 5 damage
+A Mysterious Snake hit you for 2 damage
+You hit a Mysterious Snake for 5 damage
+A Mysterious Snake hit you for 2 damage
+You slay a Mysterious Snake and earn 8 experience
+ + 30gold
+You encounter a monstrous Wolf
+You hit a Monstrous Wolf for 5 damage
+A Monstrous Wolf hit you for 2 damage
+You hit a Monstrous Wolf for 5 damage
+A Monstrous Wolf hit you for 2 damage
+You hit a Monstrous Wolf for 5 damage
+A Monstrous Wolf hit you for 2 damage
+You hit a Monstrous Wolf for 5 damage
+A Monstrous Wolf hit you for 2 damage
+You hit a Monstrous Wolf for 5 damage
+A Monstrous Wolf hit you for 2 damage
+You slay a Monstrous Wolf and earn 7 experience
+ + 39gold
+You encounter a odd Snake
+You hit a Odd Snake for 5 damage
+A Odd Snake hit you for 2 damage
+You hit a Odd Snake for 5 damage
+A Odd Snake hit you for 2 damage
+You hit a Odd Snake for 5 damage
+A Odd Snake hit you for 2 damage
+You hit a Odd Snake for 5 damage
+A Odd Snake hit you for 2 damage
+You slay a Odd Snake and earn 5 experience
+ + 22gold
+You encounter a mythological Wolf
+You hit a Mythological Wolf for 5 damage
+A Mythological Wolf hit you for 2 damage
+You hit a Mythological Wolf for 5 damage
+A Mythological Wolf hit you for 2 damage
+You hit a Mythological Wolf for 5 damage
+A Mythological Wolf hit you for 2 damage
+You hit a Mythological Wolf for 5 damage
+A Mythological Wolf hit you for 2 damage
+You hit a Mythological Wolf for 5 damage
+A Mythological Wolf hit you for 2 damage
+You slay a Mythological Wolf and earn 6 experience
+ + 28gold
+You encounter a strange Troll
+You hit a Strange Troll for 5 damage
+A Strange Troll hit you for 4 damage
+You hit a Strange Troll for 5 damage
+A Strange Troll hit you for 4 damage
+You hit a Strange Troll for 5 damage
+A Strange Troll hit you for 4 damage
+You slay a Strange Troll and earn 9 experience
+ + 24gold
+You encounter a curious Wolf
+You hit a Curious Wolf for 5 damage
+A Curious Wolf hit you for 2 damage
+You hit a Curious Wolf for 5 damage
+A Curious Wolf hit you for 2 damage
+You hit a Curious Wolf for 5 damage
+A Curious Wolf hit you for 2 damage
+You hit a Curious Wolf for 5 damage
+A Curious Wolf hit you for 2 damage
+You hit a Curious Wolf for 5 damage
+A Curious Wolf hit you for 2 damage
+You slay a Curious Wolf and earn 8 experience
+ + 45gold
+You encounter a curious Troll
+You hit a Curious Troll for 5 damage
+A Curious Troll hit you for 4 damage
+You hit a Curious Troll for 5 damage
+A Curious Troll hit you for 4 damage
+You hit a Curious Troll for 5 damage
+A Curious Troll hit you for 4 damage
+You slay a Curious Troll and earn 7 experience
+ + 42gold
+You encounter a curious Wolf
+You hit a Curious Wolf for 5 damage
+A Curious Wolf hit you for 2 damage
+You hit a Curious Wolf for 5 damage
+A Curious Wolf hit you for 2 damage
+You hit a Curious Wolf for 5 damage
+A Curious Wolf hit you for 2 damage
+You hit a Curious Wolf for 5 damage
+A Curious Wolf hit you for 2 damage
+You hit a Curious Wolf for 5 damage
+A Curious Wolf hit you for 2 damage
+You slay a Curious Wolf and earn 8 experience
+ + 42gold
+You encounter a rational Troll
+You hit a Rational Troll for 5 damage
+A Rational Troll hit you for 4 damage
+You hit a Rational Troll for 5 damage
+A Rational Troll hit you for 4 damage
+You hit a Rational Troll for 5 damage
+A Rational Troll hit you for 4 damage
+You slay a Rational Troll and earn 8 experience
+ + 40gold
+You encounter a curious Troll
+You hit a Curious Troll for 5 damage
+A Curious Troll hit you for 4 damage
+You hit a Curious Troll for 5 damage
+A Curious Troll hit you for 4 damage
+You hit a Curious Troll for 5 damage
+A Curious Troll hit you for 4 damage
+You slay a Curious Troll and earn 9 experience
+ + 37gold
+You encounter a poor Troll
+You hit a Poor Troll for 5 damage
+A Poor Troll hit you for 4 damage
+You hit a Poor Troll for 5 damage
+A Poor Troll hit you for 4 damage
+You hit a Poor Troll for 5 damage
+A Poor Troll hit you for 4 damage
+You slay a Poor Troll and earn 5 experience
+ + 28gold
+You encounter a poor Troll
+You hit a Poor Troll for 5 damage
+A Poor Troll hit you for 4 damage
+You hit a Poor Troll for 5 damage
+A Poor Troll hit you for 4 damage
+You hit a Poor Troll for 5 damage
+A Poor Troll hit you for 4 damage
+You slay a Poor Troll and earn 6 experience
+ + 43gold
+You encounter a divine Snake
+You hit a Divine Snake for 10 damage
+A Divine Snake hit you for 2 damage
+You hit a Divine Snake for 10 damage
+A Divine Snake hit you for 2 damage
+You slay a Divine Snake and earn 6 experience
+ + 39gold
+You encounter a lowly Snake
+You hit a Lowly Snake for 10 damage
+A Lowly Snake hit you for 4 damage
+You hit a Lowly Snake for 10 damage
+A Lowly Snake hit you for 4 damage
+You hit a Lowly Snake for 10 damage
+A Lowly Snake hit you for 4 damage
+You hit a Lowly Snake for 10 damage
+A Lowly Snake hit you for 4 damage
+You slay a Lowly Snake and earn 7 experience
+ + 39gold
+You encounter a weird Wolf
+You hit a Weird Wolf for 10 damage
+A Weird Wolf hit you for 4 damage
+You hit a Weird Wolf for 10 damage
+A Weird Wolf hit you for 4 damage
+You hit a Weird Wolf for 10 damage
+A Weird Wolf hit you for 4 damage
+You hit a Weird Wolf for 10 damage
+A Weird Wolf hit you for 4 damage
+You hit a Weird Wolf for 10 damage
+A Weird Wolf hit you for 4 damage
+You slay a Weird Wolf and earn 8 experience
+ + 32gold
+You encounter a unique Snake
+You hit a Unique Snake for 10 damage
+A Unique Snake hit you for 4 damage
+You hit a Unique Snake for 10 damage
+A Unique Snake hit you for 4 damage
+You hit a Unique Snake for 10 damage
+A Unique Snake hit you for 4 damage
+You hit a Unique Snake for 10 damage
+A Unique Snake hit you for 4 damage
+You slay a Unique Snake and earn 9 experience
+ + 38gold
+You encounter a mysterious Snake
+You hit a Mysterious Snake for 10 damage
+A Mysterious Snake hit you for 4 damage
+You hit a Mysterious Snake for 10 damage
+A Mysterious Snake hit you for 4 damage
+You hit a Mysterious Snake for 10 damage
+A Mysterious Snake hit you for 4 damage
+You hit a Mysterious Snake for 10 damage
+A Mysterious Snake hit you for 4 damage
+You slay a Mysterious Snake and earn 8 experience
+ + 35gold
+You encounter a monstrous Wolf
+You hit a Monstrous Wolf for 10 damage
+A Monstrous Wolf hit you for 4 damage
+You hit a Monstrous Wolf for 10 damage
+A Monstrous Wolf hit you for 4 damage
+You hit a Monstrous Wolf for 10 damage
+A Monstrous Wolf hit you for 4 damage
+You hit a Monstrous Wolf for 10 damage
+A Monstrous Wolf hit you for 4 damage
+You hit a Monstrous Wolf for 10 damage
+A Monstrous Wolf hit you for 4 damage
+You slay a Monstrous Wolf and earn 8 experience
+ + 24gold
+You encounter a good Wolf
+You hit a Good Wolf for 10 damage
+A Good Wolf hit you for 4 damage
+You hit a Good Wolf for 10 damage
+A Good Wolf hit you for 4 damage
+You hit a Good Wolf for 10 damage
+A Good Wolf hit you for 4 damage
+You hit a Good Wolf for 10 damage
+A Good Wolf hit you for 4 damage
+You hit a Good Wolf for 10 damage
+A Good Wolf hit you for 4 damage
+You slay a Good Wolf and earn 7 experience
+ + 41gold
+You encounter a legendary Troll
+You hit a Legendary Troll for 10 damage
+A Legendary Troll hit you for 8 damage
+You hit a Legendary Troll for 10 damage
+A Legendary Troll hit you for 8 damage
+You hit a Legendary Troll for 10 damage
+A Legendary Troll hit you for 8 damage
+You slay a Legendary Troll and earn 6 experience
+ + 34gold
+You encounter a strange Snake
+You hit a Strange Snake for 10 damage
+A Strange Snake hit you for 4 damage
+You hit a Strange Snake for 10 damage
+A Strange Snake hit you for 4 damage
+You hit a Strange Snake for 10 damage
+A Strange Snake hit you for 4 damage
+You hit a Strange Snake for 10 damage
+A Strange Snake hit you for 4 damage
+You slay a Strange Snake and earn 7 experience
+ + 43gold
+You encounter a hideous Snake
+You hit a Hideous Snake for 10 damage
+A Hideous Snake hit you for 4 damage
+You hit a Hideous Snake for 10 damage
+A Hideous Snake hit you for 4 damage
+You hit a Hideous Snake for 10 damage
+A Hideous Snake hit you for 4 damage
+You hit a Hideous Snake for 10 damage
+A Hideous Snake hit you for 4 damage
+You slay a Hideous Snake and earn 7 experience
+ + 43gold
+You encounter a hideous Wolf
+You hit a Hideous Wolf for 13 damage
+A Hideous Wolf hit you for 4 damage
+You hit a Hideous Wolf for 13 damage
+A Hideous Wolf hit you for 4 damage
+A Hideous Wolf hit you for 0 damage.
+ You blocked (10) damage
+You hit a Hideous Wolf for 13 damage
+A Hideous Wolf hit you for 4 damage
+A Hideous Wolf hit you for 0 damage.
+ You blocked (10) damage
+You hit a Hideous Wolf for 13 damage
+A Hideous Wolf hit you for 4 damage
+You slay a Hideous Wolf and earn 9 experience
+ + 43gold
+You encounter a curious Wolf
+You hit a Curious Wolf for 13 damage
+A Curious Wolf hit you for 4 damage
+You hit a Curious Wolf for 13 damage
+A Curious Wolf hit you for 4 damage
+You hit a Curious Wolf for 13 damage
+A Curious Wolf hit you for 4 damage
+A Curious Wolf hit you for 0 damage.
+ You blocked (10) damage
+You hit a Curious Wolf for 13 damage
+A Curious Wolf hit you for 4 damage
+You slay a Curious Wolf and earn 7 experience
+ + 45gold
+You encounter a dangerous Snake
+A Dangerous Snake hit you for 0 damage.
+ You blocked (10) damage
+You hit a Dangerous Snake for 13 damage
+A Dangerous Snake hit you for 4 damage
+You hit a Dangerous Snake for 13 damage
+A Dangerous Snake hit you for 4 damage
+A Dangerous Snake hit you for 0 damage.
+ You blocked (10) damage
+You hit a Dangerous Snake for 13 damage
+A Dangerous Snake hit you for 4 damage
+You slay a Dangerous Snake and earn 5 experience
+ + 24gold
+You encounter a weird Troll
+A Weird Troll hit you for 0 damage.
+ You blocked (10) damage
+You hit a Weird Troll for 13 damage
+A Weird Troll hit you for 8 damage
+You hit a Weird Troll for 13 damage
+A Weird Troll hit you for 8 damage
+A Weird Troll hit you for 0 damage.
+ You blocked (10) damage
+You hit a Weird Troll for 13 damage
+A Weird Troll hit you for 8 damage
+You slay a Weird Troll and earn 9 experience
+ + 37gold
+You encounter a poor Snake
+A Poor Snake hit you for 0 damage.
+ You blocked (10) damage
+You hit a Poor Snake for 13 damage
+A Poor Snake hit you for 4 damage
+You hit a Poor Snake for 13 damage
+A Poor Snake hit you for 4 damage
+A Poor Snake hit you for 0 damage.
+ You blocked (10) damage
+You hit a Poor Snake for 13 damage
+A Poor Snake hit you for 4 damage
+You slay a Poor Snake and earn 8 experience
+ + 47gold
+You encounter a weird Snake
+A Weird Snake hit you for 0 damage.
+ You blocked (10) damage
+You hit a Weird Snake for 13 damage
+A Weird Snake hit you for 4 damage
+You hit a Weird Snake for 13 damage
+A Weird Snake hit you for 4 damage
+You hit a Weird Snake for 13 damage
+A Weird Snake hit you for 4 damage
+You slay a Weird Snake and earn 6 experience
+ + 33gold
+You encounter a rational Troll
+You hit a Rational Troll for 13 damage
+A Rational Troll hit you for 8 damage
+You hit a Rational Troll for 13 damage
+A Rational Troll hit you for 8 damage
+You hit a Rational Troll for 13 damage
+A Rational Troll hit you for 8 damage
+You slay a Rational Troll and earn 6 experience
+ + 28gold
+You encounter a beautiful Snake
+You hit a Beautiful Snake for 13 damage
+A Beautiful Snake hit you for 4 damage
+You hit a Beautiful Snake for 13 damage
+A Beautiful Snake hit you for 4 damage
+You hit a Beautiful Snake for 13 damage
+A Beautiful Snake hit you for 4 damage
+You slay a Beautiful Snake and earn 7 experience
+ + 25gold
+You encounter a odd Wolf
+You hit a Odd Wolf for 13 damage
+A Odd Wolf hit you for 4 damage
+You hit a Odd Wolf for 13 damage
+A Odd Wolf hit you for 4 damage
+You hit a Odd Wolf for 13 damage
+A Odd Wolf hit you for 4 damage
+You hit a Odd Wolf for 13 damage
+A Odd Wolf hit you for 4 damage
+You slay a Odd Wolf and earn 9 experience
+ + 46gold
+You encounter a demonic Wolf
+You hit a Demonic Wolf for 13 damage
+A Demonic Wolf hit you for 4 damage
+You hit a Demonic Wolf for 13 damage
+A Demonic Wolf hit you for 4 damage
+You hit a Demonic Wolf for 13 damage
+A Demonic Wolf hit you for 4 damage
+You hit a Demonic Wolf for 13 damage
+A Demonic Wolf hit you for 4 damage
+You slay a Demonic Wolf and earn 7 experience
+ + 34gold
+You encounter a lowly Wolf
+You hit a Lowly Wolf for 13 damage
+A Lowly Wolf hit you for 4 damage
+You hit a Lowly Wolf for 13 damage
+A Lowly Wolf hit you for 4 damage
+You hit a Lowly Wolf for 13 damage
+A Lowly Wolf hit you for 4 damage
+You hit a Lowly Wolf for 13 damage
+A Lowly Wolf hit you for 4 damage
+You slay a Lowly Wolf and earn 7 experience
+ + 46gold
+You encounter a strange Snake
+You hit a Strange Snake for 15 damage
+A Strange Snake hit you for 4 damage
+You hit a Strange Snake for 15 damage
+A Strange Snake hit you for 4 damage
+You hit a Strange Snake for 15 damage
+A Strange Snake hit you for 4 damage
+You slay a Strange Snake and earn 9 experience
+ + 24gold
+You encounter a hideous Wolf
+You hit a Hideous Wolf for 15 damage
+A Hideous Wolf hit you for 4 damage
+You hit a Hideous Wolf for 15 damage
+A Hideous Wolf hit you for 4 damage
+You hit a Hideous Wolf for 15 damage
+A Hideous Wolf hit you for 4 damage
+You slay a Hideous Wolf and earn 7 experience
+ + 48gold
+You encounter a bizarre Snake
+You hit a Bizarre Snake for 15 damage
+A Bizarre Snake hit you for 4 damage
+You hit a Bizarre Snake for 15 damage
+A Bizarre Snake hit you for 4 damage
+You hit a Bizarre Snake for 15 damage
+A Bizarre Snake hit you for 4 damage
+You slay a Bizarre Snake and earn 8 experience
+ + 45gold
+You encounter a magical Wolf
+You hit a Magical Wolf for 15 damage
+A Magical Wolf hit you for 4 damage
+You hit a Magical Wolf for 15 damage
+A Magical Wolf hit you for 4 damage
+You hit a Magical Wolf for 15 damage
+A Magical Wolf hit you for 4 damage
+You slay a Magical Wolf and earn 6 experience
+ + 32gold
+You encounter a rational Snake
+You hit a Rational Snake for 15 damage
+A Rational Snake hit you for 4 damage
+You hit a Rational Snake for 15 damage
+A Rational Snake hit you for 4 damage
+You hit a Rational Snake for 15 damage
+A Rational Snake hit you for 4 damage
+You slay a Rational Snake and earn 8 experience
+ + 48gold
+You encounter a demonic Wolf
+You hit a Demonic Wolf for 15 damage
+A Demonic Wolf hit you for 4 damage
+You hit a Demonic Wolf for 15 damage
+A Demonic Wolf hit you for 4 damage
+You hit a Demonic Wolf for 15 damage
+A Demonic Wolf hit you for 4 damage
+You slay a Demonic Wolf and earn 6 experience
+ + 39gold
+You encounter a living Snake
+You hit a Living Snake for 15 damage
+A Living Snake hit you for 4 damage
+You hit a Living Snake for 15 damage
+A Living Snake hit you for 4 damage
+You hit a Living Snake for 15 damage
+A Living Snake hit you for 4 damage
+You slay a Living Snake and earn 9 experience
+ + 30gold
+You encounter a rational Wolf
+You hit a Rational Wolf for 15 damage
+A Rational Wolf hit you for 4 damage
+You hit a Rational Wolf for 15 damage
+A Rational Wolf hit you for 4 damage
+You hit a Rational Wolf for 15 damage
+A Rational Wolf hit you for 4 damage
+You slay a Rational Wolf and earn 5 experience
+ + 34gold
+You encounter a curious Snake
+You hit a Curious Snake for 15 damage
+A Curious Snake hit you for 4 damage
+You hit a Curious Snake for 15 damage
+A Curious Snake hit you for 4 damage
+You hit a Curious Snake for 15 damage
+A Curious Snake hit you for 4 damage
+You slay a Curious Snake and earn 5 experience
+ + 29gold
+You encounter a beautiful Snake
+You hit a Beautiful Snake for 15 damage
+A Beautiful Snake hit you for 4 damage
+You hit a Beautiful Snake for 15 damage
+A Beautiful Snake hit you for 4 damage
+You hit a Beautiful Snake for 15 damage
+A Beautiful Snake hit you for 4 damage
+You slay a Beautiful Snake and earn 7 experience
+ + 26gold
+You encounter a monstrous Troll
+You hit a Monstrous Troll for 15 damage
+A Monstrous Troll hit you for 8 damage
+You hit a Monstrous Troll for 15 damage
+A Monstrous Troll hit you for 8 damage
+You slay a Monstrous Troll and earn 9 experience
+ + 30gold
+You encounter a imaginary Snake
+You hit a Imaginary Snake for 15 damage
+A Imaginary Snake hit you for 4 damage
+You hit a Imaginary Snake for 15 damage
+A Imaginary Snake hit you for 4 damage
+You hit a Imaginary Snake for 15 damage
+A Imaginary Snake hit you for 4 damage
+You slay a Imaginary Snake and earn 5 experience
+ + 26gold
+You encounter a little Troll
+You hit a Little Troll for 15 damage
+A Little Troll hit you for 8 damage
+You hit a Little Troll for 15 damage
+A Little Troll hit you for 8 damage
+You slay a Little Troll and earn 7 experience
+ + 36gold
+You encounter a unhappy Snake
+You hit a Unhappy Snake for 15 damage
+A Unhappy Snake hit you for 4 damage
+You hit a Unhappy Snake for 15 damage
+A Unhappy Snake hit you for 4 damage
+You hit a Unhappy Snake for 15 damage
+A Unhappy Snake hit you for 4 damage
+You slay a Unhappy Snake and earn 9 experience
+ + 30gold
+You encounter a social Wolf
+You hit a Social Wolf for 15 damage
+A Social Wolf hit you for 4 damage
+You hit a Social Wolf for 15 damage
+A Social Wolf hit you for 4 damage
+You hit a Social Wolf for 15 damage
+A Social Wolf hit you for 4 damage
+You slay a Social Wolf and earn 5 experience
+ + 44gold
+You encounter a beautiful Snake
+You hit a Beautiful Snake for 15 damage
+A Beautiful Snake hit you for 4 damage
+You hit a Beautiful Snake for 15 damage
+A Beautiful Snake hit you for 4 damage
+You hit a Beautiful Snake for 15 damage
+A Beautiful Snake hit you for 4 damage
+You slay a Beautiful Snake and earn 6 experience
+ + 49gold
+You encounter a poor Troll
+You hit a Poor Troll for 15 damage
+A Poor Troll hit you for 8 damage
+You hit a Poor Troll for 15 damage
+A Poor Troll hit you for 8 damage
+You slay a Poor Troll and earn 7 experience
+ + 28gold
+You encounter a divine Snake
+You hit a Divine Snake for 15 damage
+A Divine Snake hit you for 4 damage
+You hit a Divine Snake for 15 damage
+A Divine Snake hit you for 4 damage
+You hit a Divine Snake for 15 damage
+A Divine Snake hit you for 4 damage
+You slay a Divine Snake and earn 5 experience
+ + 44gold
+You encounter a mysterious Wolf
+You hit a Mysterious Wolf for 15 damage
+A Mysterious Wolf hit you for 4 damage
+You hit a Mysterious Wolf for 15 damage
+A Mysterious Wolf hit you for 4 damage
+You hit a Mysterious Wolf for 15 damage
+A Mysterious Wolf hit you for 4 damage
+You slay a Mysterious Wolf and earn 6 experience
+ + 30gold
+You encounter a weird Wolf
+You hit a Weird Wolf for 15 damage
+A Weird Wolf hit you for 4 damage
+You hit a Weird Wolf for 15 damage
+A Weird Wolf hit you for 4 damage
+You hit a Weird Wolf for 15 damage
+A Weird Wolf hit you for 4 damage
+You slay a Weird Wolf and earn 7 experience
+ + 23gold
+You encounter a lowly Wolf
+You hit a Lowly Wolf for 15 damage
+A Lowly Wolf hit you for 4 damage
+You hit a Lowly Wolf for 15 damage
+A Lowly Wolf hit you for 4 damage
+You hit a Lowly Wolf for 15 damage
+A Lowly Wolf hit you for 4 damage
+You slay a Lowly Wolf and earn 8 experience
+ + 38gold
+You encounter a bizarre Wolf
+You hit a Bizarre Wolf for 15 damage
+A Bizarre Wolf hit you for 4 damage
+You hit a Bizarre Wolf for 15 damage
+A Bizarre Wolf hit you for 4 damage
+You hit a Bizarre Wolf for 15 damage
+A Bizarre Wolf hit you for 4 damage
+You slay a Bizarre Wolf and earn 7 experience
+ + 40gold
+You encounter a odd Troll
+You hit a Odd Troll for 20 damage
+A Odd Troll hit you for 8 damage
+You hit a Odd Troll for 20 damage
+A Odd Troll hit you for 8 damage
+You slay a Odd Troll and earn 6 experience
+ + 49gold
+You encounter a unhappy Snake
+You hit a Unhappy Snake for 20 damage
+A Unhappy Snake hit you for 6 damage
+You hit a Unhappy Snake for 20 damage
+A Unhappy Snake hit you for 6 damage

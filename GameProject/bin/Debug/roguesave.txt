@@ -1,0 +1,363 @@
+30
+130
+6
+0
+5
+0
+2
+147
+12507
+Rogue
+You encounter a little Wolf
+Started as a Rogue
+You hit a Little Wolf for 15 damage 
++ 0 damage as poison
+A Little Wolf hit you for 2 damage
+You hit a Little Wolf for 15 damage 
++ 0 damage as poison
+A Little Wolf hit you for 2 damage
+You slay a Little Wolf and earn 9 experience
+ + 44gold
+You encounter a hideous Snake
+You used the special attack Poison
+You hit a Hideous Snake for 20 damage 
++ 5 damage as poison
+A Hideous Snake hit you for 2 damage
+You slay a Hideous Snake and earn 9 experience
+ + 26gold
+You encounter a wild Snake
+You hit a Wild Snake for 19 damage 
++ 4 damage as poison
+A Wild Snake hit you for 2 damage
+You slay a Wild Snake and earn 5 experience
+ + 36gold
+You encounter a good Snake
+You hit a Good Snake for 18 damage 
++ 3 damage as poison
+A Good Snake hit you for 2 damage
+You slay a Good Snake and earn 7 experience
+ + 30gold
+You encounter a evil Troll
+You hit a Evil Troll for 17 damage 
++ 2 damage as poison
+A Evil Troll hit you for 4 damage
+You slay a Evil Troll and earn 6 experience
+ + 45gold
+You encounter a unhappy Snake
+You hit a Unhappy Snake for 16 damage 
++ 1 damage as poison
+A Unhappy Snake hit you for 2 damage
+You hit a Unhappy Snake for 15 damage 
++ 0 damage as poison
+A Unhappy Snake hit you for 2 damage
+You slay a Unhappy Snake and earn 5 experience
+ + 33gold
+You encounter a mysterious Wolf
+You hit a Mysterious Wolf for 15 damage 
++ 0 damage as poison
+A Mysterious Wolf hit you for 2 damage
+You hit a Mysterious Wolf for 15 damage 
++ 0 damage as poison
+A Mysterious Wolf hit you for 2 damage
+You slay a Mysterious Wolf and earn 7 experience
+ + 32gold
+You encounter a mysterious Wolf
+You used the special attack Poison
+You hit a Mysterious Wolf for 20 damage 
++ 5 damage as poison
+A Mysterious Wolf hit you for 2 damage
+You hit a Mysterious Wolf for 19 damage 
++ 4 damage as poison
+A Mysterious Wolf hit you for 2 damage
+You slay a Mysterious Wolf and earn 7 experience
+ + 25gold
+You encounter a wild Troll
+You hit a Wild Troll for 18 damage 
++ 3 damage as poison
+A Wild Troll hit you for 4 damage
+You slay a Wild Troll and earn 6 experience
+ + 49gold
+You encounter a happy Troll
+You hit a Happy Troll for 17 damage 
++ 2 damage as poison
+A Happy Troll hit you for 4 damage
+You slay a Happy Troll and earn 9 experience
+ + 24gold
+You encounter a ugly Wolf
+You hit a Ugly Wolf for 16 damage 
++ 1 damage as poison
+A Ugly Wolf hit you for 2 damage
+You hit a Ugly Wolf for 15 damage 
++ 0 damage as poison
+A Ugly Wolf hit you for 2 damage
+You slay a Ugly Wolf and earn 8 experience
+ + 44gold
+You encounter a ugly Wolf
+You hit a Ugly Wolf for 15 damage 
++ 0 damage as poison
+A Ugly Wolf hit you for 2 damage
+You hit a Ugly Wolf for 15 damage 
++ 0 damage as poison
+A Ugly Wolf hit you for 2 damage
+You slay a Ugly Wolf and earn 6 experience
+ + 48gold
+You encounter a imaginary Wolf
+You hit a Imaginary Wolf for 15 damage 
++ 0 damage as poison
+A Imaginary Wolf hit you for 2 damage
+You hit a Imaginary Wolf for 15 damage 
++ 0 damage as poison
+A Imaginary Wolf hit you for 2 damage
+You slay a Imaginary Wolf and earn 6 experience
+ + 26gold
+You encounter a lowly Wolf
+You hit a Lowly Wolf for 15 damage 
++ 0 damage as poison
+A Lowly Wolf hit you for 2 damage
+You hit a Lowly Wolf for 15 damage 
++ 0 damage as poison
+A Lowly Wolf hit you for 2 damage
+You slay a Lowly Wolf and earn 7 experience
+ + 26gold
+You encounter a good Wolf
+You hit a Good Wolf for 15 damage 
++ 0 damage as poison
+A Good Wolf hit you for 2 damage
+You hit a Good Wolf for 15 damage 
++ 0 damage as poison
+A Good Wolf hit you for 2 damage
+You slay a Good Wolf and earn 5 experience
+ + 43gold
+You encounter a curious Troll
+You hit a Curious Troll for 15 damage 
++ 0 damage as poison
+A Curious Troll hit you for 4 damage
+You slay a Curious Troll and earn 6 experience
+ + 43gold
+You encounter a imaginary Troll
+You used the special attack Poison
+You hit a Imaginary Troll for 20 damage 
++ 5 damage as poison
+A Imaginary Troll hit you for 4 damage
+You slay a Imaginary Troll and earn 9 experience
+ + 46gold
+You encounter a dangerous Snake
+You hit a Dangerous Snake for 19 damage 
++ 4 damage as poison
+A Dangerous Snake hit you for 2 damage
+You slay a Dangerous Snake and earn 8 experience
+ + 43gold
+You encounter a strange Snake
+You hit a Strange Snake for 18 damage 
++ 3 damage as poison
+A Strange Snake hit you for 2 damage
+You slay a Strange Snake and earn 9 experience
+ + 37gold
+You encounter a good Wolf
+You hit a Good Wolf for 17 damage 
++ 2 damage as poison
+A Good Wolf hit you for 2 damage
+You hit a Good Wolf for 16 damage 
++ 1 damage as poison
+A Good Wolf hit you for 2 damage
+You slay a Good Wolf and earn 8 experience
+ + 22gold
+You encounter a monstrous Snake
+You hit a Monstrous Snake for 15 damage 
++ 0 damage as poison
+A Monstrous Snake hit you for 2 damage
+You hit a Monstrous Snake for 15 damage 
++ 0 damage as poison
+A Monstrous Snake hit you for 2 damage
+You slay a Monstrous Snake and earn 7 experience
+ + 21gold
+You encounter a good Snake
+You hit a Good Snake for 15 damage 
++ 0 damage as poison
+A Good Snake hit you for 2 damage
+You hit a Good Snake for 15 damage 
++ 0 damage as poison
+A Good Snake hit you for 2 damage
+You slay a Good Snake and earn 6 experience
+ + 47gold
+You encounter a evil Wolf
+You hit a Evil Wolf for 30 damage 
++ 0 damage as poison
+A Evil Wolf hit you for 2 damage
+You slay a Evil Wolf and earn 5 experience
+ + 26gold
+You encounter a poor Wolf
+You hit a Poor Wolf for 30 damage 
++ 0 damage as poison
+A Poor Wolf hit you for 4 damage
+You hit a Poor Wolf for 30 damage 
++ 0 damage as poison
+A Poor Wolf hit you for 4 damage
+You slay a Poor Wolf and earn 8 experience
+ + 35gold
+You encounter a hideous Troll
+You hit a Hideous Troll for 30 damage 
++ 0 damage as poison
+A Hideous Troll hit you for 8 damage
+You slay a Hideous Troll and earn 5 experience
+ + 43gold
+You encounter a curious Wolf
+You hit a Curious Wolf for 30 damage 
++ 0 damage as poison
+A Curious Wolf hit you for 4 damage
+You hit a Curious Wolf for 30 damage 
++ 0 damage as poison
+A Curious Wolf hit you for 4 damage
+You slay a Curious Wolf and earn 9 experience
+ + 31gold
+You encounter a unhappy Snake
+You hit a Unhappy Snake for 30 damage 
++ 0 damage as poison
+A Unhappy Snake hit you for 4 damage
+You hit a Unhappy Snake for 30 damage 
++ 0 damage as poison
+A Unhappy Snake hit you for 4 damage
+You slay a Unhappy Snake and earn 5 experience
+ + 41gold
+You encounter a weird Wolf
+You hit a Weird Wolf for 30 damage 
++ 0 damage as poison
+A Weird Wolf hit you for 4 damage
+You hit a Weird Wolf for 30 damage 
++ 0 damage as poison
+A Weird Wolf hit you for 4 damage
+You slay a Weird Wolf and earn 6 experience
+ + 36gold
+You encounter a imaginary Troll
+You hit a Imaginary Troll for 30 damage 
++ 0 damage as poison
+A Imaginary Troll hit you for 8 damage
+You slay a Imaginary Troll and earn 8 experience
+ + 46gold
+You encounter a beautiful Wolf
+You hit a Beautiful Wolf for 30 damage 
++ 0 damage as poison
+A Beautiful Wolf hit you for 4 damage
+You hit a Beautiful Wolf for 30 damage 
++ 0 damage as poison
+A Beautiful Wolf hit you for 4 damage
+You slay a Beautiful Wolf and earn 8 experience
+ + 28gold
+You encounter a little Wolf
+You hit a Little Wolf for 30 damage 
++ 0 damage as poison
+A Little Wolf hit you for 4 damage
+You hit a Little Wolf for 30 damage 
++ 0 damage as poison
+A Little Wolf hit you for 4 damage
+You slay a Little Wolf and earn 5 experience
+ + 23gold
+You encounter a mythological Troll
+You hit a Mythological Troll for 30 damage 
++ 0 damage as poison
+A Mythological Troll hit you for 8 damage
+You slay a Mythological Troll and earn 5 experience
+ + 48gold
+You encounter a good Troll
+You hit a Good Troll for 30 damage 
++ 0 damage as poison
+A Good Troll hit you for 8 damage
+You slay a Good Troll and earn 5 experience
+ + 46gold
+You encounter a imaginary Snake
+You hit a Imaginary Snake for 30 damage 
++ 0 damage as poison
+A Imaginary Snake hit you for 4 damage
+You hit a Imaginary Snake for 30 damage 
++ 0 damage as poison
+A Imaginary Snake hit you for 4 damage
+You slay a Imaginary Snake and earn 6 experience
+ + 39gold
+You encounter a mythical Wolf
+You hit a Mythical Wolf for 30 damage 
++ 0 damage as poison
+A Mythical Wolf hit you for 4 damage
+You hit a Mythical Wolf for 30 damage 
++ 0 damage as poison
+A Mythical Wolf hit you for 4 damage
+You slay a Mythical Wolf and earn 9 experience
+ + 33gold
+You encounter a bizarre Snake
+You hit a Bizarre Snake for 30 damage 
++ 0 damage as poison
+A Bizarre Snake hit you for 4 damage
+You hit a Bizarre Snake for 30 damage 
++ 0 damage as poison
+A Bizarre Snake hit you for 4 damage
+You slay a Bizarre Snake and earn 5 experience
+ + 47gold
+You encounter a mythological Wolf
+You hit a Mythological Wolf for 30 damage 
++ 0 damage as poison
+A Mythological Wolf hit you for 4 damage
+You hit a Mythological Wolf for 30 damage 
++ 0 damage as poison
+A Mythological Wolf hit you for 4 damage
+You slay a Mythological Wolf and earn 7 experience
+ + 42gold
+You encounter a odd Troll
+You hit a Odd Troll for 30 damage 
++ 0 damage as poison
+A Odd Troll hit you for 8 damage
+You slay a Odd Troll and earn 8 experience
+ + 28gold
+You encounter a odd Snake
+You hit a Odd Snake for 30 damage 
++ 0 damage as poison
+A Odd Snake hit you for 4 damage
+You hit a Odd Snake for 30 damage 
++ 0 damage as poison
+A Odd Snake hit you for 4 damage
+You slay a Odd Snake and earn 5 experience
+ + 39gold
+You encounter a ugly Snake
+You hit a Ugly Snake for 30 damage 
++ 0 damage as poison
+A Ugly Snake hit you for 4 damage
+You hit a Ugly Snake for 30 damage 
++ 0 damage as poison
+A Ugly Snake hit you for 4 damage
+You slay a Ugly Snake and earn 9 experience
+ + 41gold
+You encounter a poor Troll
+You hit a Poor Troll for 30 damage 
++ 0 damage as poison
+A Poor Troll hit you for 8 damage
+You slay a Poor Troll and earn 6 experience
+ + 32gold
+You encounter a dangerous Wolf
+You hit a Dangerous Wolf for 30 damage 
++ 0 damage as poison
+A Dangerous Wolf hit you for 4 damage
+You hit a Dangerous Wolf for 30 damage 
++ 0 damage as poison
+A Dangerous Wolf hit you for 4 damage
+You slay a Dangerous Wolf and earn 6 experience
+ + 41gold
+You encounter a evil Troll
+You hit a Evil Troll for 30 damage 
++ 0 damage as poison
+A Evil Troll hit you for 8 damage
+You slay a Evil Troll and earn 5 experience
+ + 43gold
+You encounter a legendary Troll
+You hit a Legendary Troll for 30 damage 
++ 0 damage as poison
+A Legendary Troll hit you for 8 damage
+You slay a Legendary Troll and earn 5 experience
+ + 24gold
+You encounter a beautiful Wolf
+You hit a Beautiful Wolf for 30 damage 
++ 0 damage as poison
+A Beautiful Wolf hit you for 4 damage
+You hit a Beautiful Wolf for 30 damage 
++ 0 damage as poison
+A Beautiful Wolf hit you for 4 damage
+You slay a Beautiful Wolf and earn 7 experience
+ + 47gold
+You encounter a social Wolf
